@@ -1,1 +1,2 @@
-# Sayan_Thesis_work
+# Sentiment Analysis on Twitter Dataset
+The contribution of this thesis work on sentiment analysis using the BERT model on Twitter data lies in its ability to achieve state-of-the-art sentiment classification performance. By harnessing BERT's contextual comprehension, the approach offers heightened accuracy in discerning complex sentiments, including sarcasm and negations, prevalent in tweets. This advancement facilitates more precise sentiment tracking, aiding businesses in refining brand strategies, policymakers in gauging public opinion, and researchers in extracting nuanced insights from social media discourse, thereby enhancing decision-making processes.
